@@ -4,4 +4,4 @@ def _APPINFO() :
     class s_INFO:
         developer = "Mr.Snowman"
 
-print("a5")
+print("RUN")
