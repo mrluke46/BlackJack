@@ -1,0 +1,9 @@
+'Black Jack' program. Developed by 'Mr.Snowman' with app's code called 'PYBJPP'. Version remarks.
+
+Version:	0.1
+Date:	    January 18, 2022.
+Notes:	    The program created and added the app's info.
+
+Version:    [TBD]
+Date:       [TBD]
+Notes:      [TBD]
