@@ -2,8 +2,12 @@
 
 Version:	0.1
 Date:	    January 18, 2022.
+Build:      20220118
 Notes:	    The program created and added the app's info.
+Git:        This version has been committed to the Personal Git database.
 
-Version:    [TBD]
-Date:       [TBD]
+Version:    0.11
+Date:       January 22, 2022
+Build:      20220122
 Notes:      [TBD]
+Git:        This version has not been committed to the Personal Git database.
