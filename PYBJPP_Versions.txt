@@ -9,5 +9,11 @@ Git:        This version has been committed to the Personal Git database.
 Version:    0.11
 Date:       January 22, 2022
 Build:      20220122
-Notes:      [TBD]
-Git:        This version has not been committed to the Personal Git database.
+Notes:      Created the additional .py file named "pybjpp_database.py".
+Git:        This version has been committed to the Personal Git database.
+
+Version:    0.111
+Date:       January 27, 2022
+Build:      20220127
+Notes:      Stated the Deck class.
+Git:        This version has been committed to the Personal Git database.
